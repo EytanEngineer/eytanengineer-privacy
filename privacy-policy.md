@@ -18,7 +18,6 @@ This Service does not explicitly use these "cookies". However, the app may use t
 Some features of the Sportner app may require access to location information transmitted from users' mobile phones. We use this location information only within the necessary scope to provide the specified services within the application.
 
 Access to location may be required for features such as finding nearby sports partners, displaying interactive maps with sports icon markers at specific locations, or showing partner search requests based on their geographical position.
-
 We want to assure you that we do not use your location data for any purposes other than those specified within the application. Your location information will not be shared with third parties.
 
 ### Location Access Disclosure
