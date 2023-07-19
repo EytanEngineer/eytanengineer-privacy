@@ -8,13 +8,25 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 ### Information Collection and Use  
 To enhance your experience while using our Service, we may require you to provide certain personally identifiable information, including but not limited to users' names, email addresses, gender, location, and pictures. The information we request will be retained and used as described in this privacy policy.
 The app does use third-party services that may collect information used to identify you.
+
 ### Cookies  
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites you visit and are stored on your device's internal memory.
 
 This Service does not explicitly use these "cookies". However, the app may use third-party code and libraries that use "cookies" to collect information and improve their services. You have the option to accept or refuse these cookies and to be notified when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use certain portions of this Service.
 
 ### Location Information  
-Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.
+Some features of the Sportner app may require access to location information transmitted from users' mobile phones. We use this location information only within the necessary scope to provide the specified services within the application.
+
+Access to location may be required for features such as finding nearby sports partners, displaying interactive maps with sports icon markers at specific locations, or showing partner search requests based on their geographical position.
+
+We want to assure you that we do not use your location data for any purposes other than those specified within the application. Your location information will not be shared with third parties.
+
+### Location Access Disclosure
+Before you can use certain features of the Sportner app that require access to your device's location, we will ask for your permission. We want to assure you that we do not use your location data for any purposes other than providing the specified features within the app. Your location information will not be shared with third parties. Please note that denying or revoking the location permission may limit certain functionalities of the app.
+
+We encourage you to carefully review the permissions requested by the Sportner app before granting them, and if you have any questions or concerns about the use of your location information, please don't hesitate to contact us.
+
+By including this section in your privacy policy, you provide clear information to users about how you collect, use, and protect location information. You also reassure users that you respect their privacy and do not use their location data for unauthorized purposes.
 
 ### Device Information  
 In certain cases, we collect information from your device. This information will be used to provide a better service and to prevent fraudulent activities. Such information will not include any personal identifiers.
