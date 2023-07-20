@@ -1,7 +1,7 @@
 ## Privacy Policy
 ### Introduction
 
-This privacy policy will help you understand what information we collect at Sportner, how Sportner uses it, and what choices you have. Sportner has developed the Sportner app as a free app. This SERVICE is provided by Sportner at no cost and is intended for use as is. By choosing to use our Service, you agree to the collection and use of information in accordance with this policy. The Personal Information we collect is used to provide and improve the Service. We will not use or share your information with anyone except as described in this Privacy Policy. The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible on our website unless otherwise defined in this Privacy Policy.
+ Sportner has developed the Sportner app as a free app. This SERVICE is provided by Sportner at no cost and is intended for use as is. By choosing to use our Service, you agree to the collection and use of information in accordance with this policy. The Personal Information we collect is used to provide and improve the Service. We will not use or share your information with anyone except as described in this Privacy Policy. The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible on our website unless otherwise defined in this Privacy Policy.
 
 ### Information Collection and Use
 
