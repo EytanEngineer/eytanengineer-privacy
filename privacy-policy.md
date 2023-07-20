@@ -43,7 +43,7 @@ We value your trust in providing us with your Personal Information, and we striv
 
 This Service is not directed to anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal information, we will immediately delete it from our servers. If you are a parent or guardian and you know that your child has provided us with personal information, please contact us so that we can take the necessary actions.
 
-Permissions and APIs that Access Sensitive Information
+### Permissions and APIs that Access Sensitive Information
 
 Requests for permission and APIs that access sensitive information should make sense to users. We only request permissions and APIs that are necessary to implement critical current features or services in our app that are promoted in our Google Play listing. We do not use permissions or APIs that access sensitive information for undisclosed, unimplemented, or disallowed features or purposes. Any personal or sensitive data accessed through permissions or APIs that access sensitive information will never be sold or shared for a purpose facilitating sale.
 
