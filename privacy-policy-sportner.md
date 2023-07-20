@@ -4,9 +4,8 @@ Welcome to Sportner! This privacy policy is designed to help you understand how 
 
 ### Collection of Personal Information
 You can access and use Sportner and Services without telling us who you are or revealing any information by which someone could identify you as a specific, identifiable individual. If, however, you wish to use some of the features offered in Sportner, you may be asked to provide certain Personal Information (for example, your name and e-mail address).
-We receive and store any information you knowingly provide to us when you create an account, publish content, or fill any forms in Sportner. When required, this information may include the following:
-
-### Account details (such as user name, unique user ID, password, etc.)
+We receive and store any information you knowingly provide to us when you create an account, publish content, or fill any forms in Sportner. When required, this information may include the following: 
+Account details (such as user name, unique user ID, password, etc.)
 Basic personal information (such as name, country of residence, etc.)
 Geolocation data of your device (such as latitude and longitude)
 You can choose not to provide us with your Personal Information, but then you may not be able to take advantage of some of the features in Sportner. Users who are uncertain about what information is mandatory are welcome to contact us.
