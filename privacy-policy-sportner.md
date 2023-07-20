@@ -1,63 +1,69 @@
+
 ## Privacy Policy
 ### Introduction
-Welcome to Sportner! This privacy policy is designed to help you understand how Sportner collects, uses, and protects your information when you use our free app. By choosing to use our Service, you agree to the practices described in this policy. Your privacy matters to us, and we are committed to safeguarding your personal information.
+Welcome to our mobile application Sportner. This Privacy Policy is designed to help you understand how we collect, use, and protect your information when you use Sportner. By accessing or using Sportner, you agree to the practices described in this Privacy Policy. Your privacy matters to us, and we are committed to safeguarding your personal information.
 
-### Collection of Personal Information
-You can access and use Sportner and Services without telling us who you are or revealing any information by which someone could identify you as a specific, identifiable individual. If, however, you wish to use some of the features offered in Sportner, you may be asked to provide certain Personal Information (for example, your name and e-mail address).
-We receive and store any information you knowingly provide to us when you create an account, publish content, or fill any forms in Sportner. When required, this information may include the following: 
-Account details (such as user name, unique user ID, password, etc.)
-Basic personal information (such as name, country of residence, etc.)
-Geolocation data of your device (such as latitude and longitude)
-You can choose not to provide us with your Personal Information, but then you may not be able to take advantage of some of the features in Sportner. Users who are uncertain about what information is mandatory are welcome to contact us.
+### Information We Collect
+1. Information Provided by You
+When you use Sportner, you may be asked to provide certain personal information voluntarily. The information we may collect includes, but is not limited to:
 
-### Privacy of Children
-We do not knowingly collect any Personal Information from children under the age of 13. If you are under the age of 13, please do not submit any Personal Information through Sportner and Services. If you have reason to believe that a child under the age of 13 has provided Personal Information to us through Sportner and Services, please contact us to request that we delete that child's Personal Information from our Services.
-We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide Personal Information through Sportner and Services without their permission. We also ask that all parents and legal guardians overseeing the care of children take the necessary precautions to ensure that their children are instructed to never give out Personal Information when online without their permission.
+Full name
+Email address
+Gender
+Date of birth
+Phone number
+Profile picture
+Geolocation data
+2. Information Collected Automatically
+We may collect certain information automatically when you use Sportner, including:
 
-### Use and Processing of Collected Information
-We act as a data controller and a data processor when handling Personal Information unless we have entered into a data processing agreement with you, in which case you would be the data controller, and we would be the data processor.
-Our role may also differ depending on the specific situation involving Personal Information. We act in the capacity of a data controller when we ask you to submit your Personal Information that is necessary to ensure your access and use of Sportner and Services. In such instances, we are a data controller because we determine the purposes and means of the processing of Personal Information.
-We act in the capacity of a data processor in situations when you submit Personal Information through Sportner and Services. We do not own, control, or make decisions about the submitted Personal Information, and such Personal Information is processed only in accordance with your instructions. In such instances, the User providing Personal Information acts as a data controller.
-In order to make Sportner and Services available to you, or to meet a legal obligation, we may need to collect and use certain Personal Information. If you do not provide the information that we request, we may not be able to provide you with the requested products or services. Any of the information we collect from you may be used to help us run and operate Sportner and Services.
-Processing your Personal Information depends on how you interact with Sportner and Services, where you are located in the world, and if one of the following applies: 
-(i) you have given your consent for one or more specific purposes; 
-(ii) provision of information is necessary for the performance of an agreement with you and/or for any pre-contractual obligations thereof;
-(iii) processing is necessary for compliance with a legal obligation to which you are subject;
-(iv) processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in us; 
-(v) processing is necessary for the purposes of the legitimate interests pursued by us or by a third party.
-Note that under some legislations, we may be allowed to process information until you object to such processing by opting out, without having to rely on consent or any other of the legal bases. In any case, we will be happy to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Information is a statutory or contractual requirement, or a requirement necessary to enter into a contract.
+Device information: We may collect information about your device, such as the device type, operating system, unique device identifier, IP address, and mobile network information.
+Usage data: We may collect data about how you interact with Sportner, such as the features you use, the pages you visit, the actions you take, and the time and date of your interactions.
+### How We Use Your Information
+We may use the information we collect for the following purposes:
 
-### Managing Information
-You are able to delete certain Personal Information we have about you. The Personal Information you can delete may change as Sportner and Services change. When you delete Personal Information, however, we may maintain a copy of the unrevised Personal Information in our records for the duration necessary to comply with our obligations to our affiliates and partners, and for the purposes described below. If you would like to delete your Personal Information or permanently delete your account, you can do so by contacting us.
+To create and manage your account on Sportner.
+To provide and improve our services, features, and functionality.
+To process and respond to your inquiries, comments, or feedback.
+To communicate with you and send you updates, promotions, and relevant information.
+To personalize your experience and provide content tailored to your interests.
+To analyze usage patterns and trends to improve the overall user experience.
+To comply with legal obligations and enforce our terms and conditions.
 
-### Disclosure of Information
-Depending on the requested Services or as necessary to complete any transaction or provide any Service you have requested, we may share your information with our affiliates, contracted companies, and service providers (collectively, "Service Providers") we rely upon to assist in the operation of Sportner and Services available to you and whose privacy policies are consistent with ours or who agree to abide by our policies with respect to Personal Information. We will not share any personally identifiable information with third parties and will not share any information with unaffiliated third parties.
-Service Providers are not authorized to use or disclose your information except as necessary to perform services on our behalf or comply with legal requirements. Service Providers are given the information they need only to perform their designated functions, and we do not authorize them to use or disclose any of the provided information for their marketing or other purposes.
+### User Authentication and Third-Party Authentication
+When you register for an account on Sportner, you may have the option to use third-party authentication services, such as Google Sign-In. If you choose to use third-party authentication, we may collect and use certain information from your third-party account, as allowed by the provider's terms and conditions and your privacy settings.
 
-### Retention of Information
-We will retain and use your Personal Information for the period necessary as long as your user account remains active, to enforce our agreements, resolve disputes, and unless a longer retention period is required or permitted by law.
-We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally. Once the retention period expires, Personal Information shall be deleted. Therefore, the right to access, the right to erasure, the right to rectification, and the right to data portability cannot be enforced after the expiration of the retention period.
+### Geolocation Data and Location Permissions
+Sportner utilizes the Google Maps API to display sports icons on the map and facilitate the search for sports partners in specific locations. To provide you with this functionality, we may collect and use your device's geolocation data. We will request your permission before accessing your location data, and you can choose to grant or deny this permission. If you deny permission, certain features of Sportner may be limited.
 
-### Data Analytics
-Our Mobile Application and Services may use third-party analytics tools that use cookies, web beacons, or other similar information-gathering technologies to collect standard internet activity and usage information. The information gathered is used to compile statistical reports on User activity, such as how often Users visit our Mobile Application and Services, what pages they visit, and for how long, etc. We use the information obtained from these analytics tools to monitor the performance and improve our Mobile Application and Services. We do not use third-party analytics tools to track or to collect any personally identifiable information of our Users, and we will not associate any information gathered from the statistical reports with any individual User.
+### Sharing of Information
+We may share your information with the following entities:
 
-### Push Notifications
-We offer push notifications to which you may voluntarily subscribe at any time. To make sure push notifications reach the correct devices, we use a third-party push notifications provider who relies on a device token unique to your device, which is issued by the operating system of your device. While it is possible to access a list of device tokens, they will not reveal your identity, your unique device ID, or your contact information to us or our third-party push notifications provider. We will maintain the information sent via e-mail in accordance with applicable laws and regulations. If, at any time, you wish to stop receiving push notifications, simply adjust your device settings accordingly.
+Service Providers: We may engage third-party companies and individuals to perform services on our behalf, such as hosting, data analysis, customer support, and marketing. These service providers will have access to your information only to the extent necessary to perform their functions and are obligated not to disclose or use the information for any other purpose.
+Partners and Affiliates: We may share aggregated and anonymized data with our partners and affiliates for business and marketing purposes. This information will not include any personally identifiable details.
+Legal Compliance: We may share your information when required by law, legal process, or government authorities to comply with applicable laws, regulations, or court orders.
+Business Transfers: In the event of a merger, acquisition, or sale of all or part of our assets, your information may be transferred as part of the transaction.
+### Your Choices and Rights
+1. Access and Correction of Information
+You have the right to access and update the personal information you provide to us. If you wish to access or correct your information, please log in to your account settings or contact us at [insert contact email].
 
-### Links to Other Resources
-Sportner and Services contain links to other resources that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other resources or third parties. We encourage you to be aware when you leave Sportner and Services and to read the privacy statements of each and every resource that may collect Personal Information.
+2. Opt-Out of Marketing Communications
+You can choose not to receive marketing communications from us by following the opt-out instructions provided in the communication or by contacting us at [insert contact email].
+
+3. Location Permissions
+You can control location permissions through your device settings. If you have granted permission for Sportner to access your location data, you can revoke this permission at any time.
+
+4. Account Deletion
+If you wish to delete your account and all associated information from Sportner, please contact us at [insert contact email]. Please note that deleting your account will result in the loss of all data associated with your account.
 
 ### Information Security
-We secure information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use, or disclosure. We maintain reasonable administrative, technical, and physical safeguards to protect against unauthorized access, use, modification, and disclosure of Personal Information in our control and custody. However, no data transmission over the Internet or wireless network can be guaranteed. Therefore, while we strive to protect your Personal Information, you acknowledge that (i) there are security and privacy limitations of the Internet which are beyond our control; (ii) the security, integrity, and privacy of any and all information and data exchanged between you and Sportner and Services cannot be guaranteed; and (iii) any such information and data may be viewed or tampered with in transit by a third party, despite best efforts.
-As the security of Personal Information depends in part on the security of the device you use to communicate with us and the security you use to protect your credentials, please take appropriate measures to protect this information.
+We take appropriate technical and organizational measures to protect your personal information from unauthorized access, use, or disclosure. However, no data transmission over the internet or method of storage is entirely secure. Therefore, we cannot guarantee the absolute security of your information.
 
-### Data Breach
-In the event we become aware that the security of Sportner and Services has been compromised or Users' Personal Information has been disclosed to unrelated third parties as a result of external activity, including, but not limited to, security attacks or fraud, we reserve the right to take reasonably appropriate measures, including, but not limited to, investigation and reporting, as well as notification to and cooperation with law enforcement authorities. In the event of a data breach, we will make reasonable efforts to notify affected individuals if we believe that there is a reasonable risk of harm to the User as a result of the breach or if notice is otherwise required by law. When we do, we will send you an email.
-We reserve the right to modify this Policy or its terms related to Sportner and Services at any time at our discretion. When we do, we will post a notification in Sportner. We may also provide notice to you in other ways at our discretion, such as through the contact information you have provided.
-An updated version of this Policy will be effective immediately upon the posting of the revised Policy unless otherwise specified. Your continued use of Sportner and Services after the effective date of the revised Policy (or such other act specified at that time) will constitute your consent to those changes. However, we will not, without your consent, use your Personal Information in a manner materially different from what was stated at the time your Personal Information was collected.
+### Children's Privacy
+Sportner is not intended for use by children under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that we have inadvertently collected information from a child under 13, we will take steps to delete such information as soon as possible. If you believe we may have collected information from a child under 13, please contact us at [insert contact email].
 
-### Acceptance of This Policy
-You acknowledge that you have read this Policy and agree to all its terms and conditions. By accessing and using Sportner and Services and submitting your information, you agree to be bound by this Policy. If you do not agree to abide by the terms of this Policy, you are not authorized to access or use Sportner and Services.
+### Changes to this Privacy Policy
+We may update this Privacy Policy from time to time to reflect changes to our practices or for other operational, legal, or regulatory reasons. We will notify you of any material changes by posting the updated Privacy Policy on Sportner. Your continued use Sportner after the effective date of the updated Privacy Policy constitutes your acceptance of the changes.
 
-### Contacting Us
-If you have any questions, concerns, or complaints regarding this Policy, the information we hold about you, or if you wish to exercise your rights, we encourage you to contact us using the details below: sportnerteam@gmail.com
+### Contact Us
+If you have any questions, concerns, or requests regarding this Privacy Policy or the use of your personal information, please contact us at sportnerteam@gmail.com. We will respond to your inquiries as promptly as possible.
